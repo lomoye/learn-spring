@@ -1,12 +1,10 @@
 package com.lomoye.springlearn.beanFactory;
 
 
-
 /**
  * Created by lomoye on 2017/8/7.
- *
  */
-public class User{
+public class User {
     private Long id;
 
     private String name;
